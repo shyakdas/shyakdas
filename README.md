@@ -7,7 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyakdas&label=Profile%20views&color=0e75b6&style=flat" alt="shyakdas" /> </p>
 
-- 🔭 I’m currently working on [News Buddy](https://github.com/shyakdas/New-App---Jetpack-Compose)
+- 🔭 I’m currently working on [Blind 75](https://github.com/shyakdas?tab=repositories), [Flow API Tutorial App](https://github.com/shyakdas/Flow-Example), [Kotlin Coroutine]([https://github.com/shyakdas?tab=repositories](https://github.com/shyakdas/Kotlin-Coroutine-Example))
+
+- Recently completed project [News Buddy](https://github.com/shyakdas/New-App---Jetpack-Compose)
 
 - 🌱 I’m currently learning **Jetpack Compose, Kotlin Multiplatform**
 
